@@ -4,7 +4,7 @@
   "description": "TP d'introduction au typeScript\r Oui c'est du javascript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./js/meteo.js"
   },
   "repository": {
     "type": "git",
