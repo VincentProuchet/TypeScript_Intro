@@ -4,7 +4,8 @@
   "description": "TP d'introduction au typeScript\r Oui c'est du javascript",
   "main": "index.js",
   "scripts": {
-    "test": "node ./js/meteo.js"
+    "test": "node ./js/meteo.js",
+ 
   },
   "repository": {
     "type": "git",
